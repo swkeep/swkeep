@@ -7,19 +7,23 @@ I enjoy programing/coding and playing games with my friends.<br>
 - 🌱 I’m currently learning C
 - 
 ##  How to reach me: 
-<p align="center">
-  Discord : [Swkeep#7049](https://discord.com/users/414402575778185227)
-  Guilded : [Swkeep](https://www.guilded.gg/u/swkeep)
-</a>
+<div align="center">
 
-### Donation 👋
+ Discord [Swkeep#7049](https://discord.com/users/414402575778185227) | Guilded [Swkeep](https://www.guilded.gg/u/swkeep)
+
+</div>
+
+## Donation 👋
+<p align="center">
 
 [swkeep.github.io](https://swkeep.github.io/)
   
+<p/>
+  
 ## GitHub Stats
 <p align="left">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=swkeep&theme=radical&show_icons=true"/>
-  <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swkeep&theme=radical&langs_count=10&layout=compact"/>
+  <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=swkeep&theme=radical&show_icons=true&hide_border=true"/>
+  <img height="180rem" max-width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swkeep&theme=radical&langs_count=10&layout=compact&hide_border=true"/>
 </a>
 </p>
 
