@@ -23,7 +23,7 @@ I enjoy programing/coding and playing games with my friends.<br>
 ## GitHub Stats
 <p align="left">
   <img height="180rem" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=swkeep&theme=radical&show_icons=true&hide_border=true"/>
-  <img height="180rem" max-width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swkeep&theme=radical&langs_count=10&layout=compact&hide_border=true"/>
+  <img height="180rem" max-width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swkeep&theme=radical&langs_count=10&hide_border=true"/>
 </a>
 </p>
 
