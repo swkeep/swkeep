@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [keep-companion](https://github.com/swkeep/keep-companion)
 - 🌱 I’m currently learning C
 - 📫 How to reach me: 
 <br/> Discord : Swkeep#7049 | Guilded : [Swkeep](https://www.guilded.gg/u/swkeep)
