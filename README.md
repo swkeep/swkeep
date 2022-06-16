@@ -3,7 +3,7 @@
 ## About Me
 I enjoy programing/coding and playing games with my friends.<br>
 
-- 🔭 I’m currently working on [keep-oilwell](https://github.com/swkeep/keep-oilrig)
+- 🔭 I’m currently working on [keep-crafting](https://github.com/swkeep/keep-crafting)
 - 🌱 I’m currently learning C
 
 ##  How to reach me: 
