@@ -9,7 +9,7 @@ I enjoy programing/coding and playing games with my friends.<br>
 ##  How to reach me: 
 <div align="center">
 
- Discord [Swkeep#7049](https://discord.com/users/414402575778185227) | Guilded [Swkeep](https://www.guilded.gg/u/swkeep)
+ Discord [Swkeep#7049](https://discord.com/users/414402575778185227)
 
 </div>
 
