@@ -9,7 +9,7 @@ I enjoy programing/coding and playing games with my friends.<br>
 ##  How to reach me: 
 <div align="center">
 
- Discord [Swkeep](https://discord.com/users/414402575778185227](https://discord.gg/ccMArCwrPV)
+ Discord [Swkeep](https://discord.gg/ccMArCwrPV)
 
 </div>
 
