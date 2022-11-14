@@ -3,9 +3,6 @@
 ## About Me
 I enjoy programing/coding and playing games with my friends.<br>
 
-- 🔭 I’m currently working on TypeScript Test
-- 🌱 I’m currently learning TypeScript
-
 ##  How to reach me: 
 <div align="center">
 
