@@ -13,7 +13,7 @@ I enjoy programing/coding and playing games with my friends.<br>
 ## Donation 👋
 <p align="center">
 
-[Like my mods? Help me survive, lol.](https://swkeep.github.io/)
+[Like my mods? Help me survive, lol.](https://ko-fi.com/swkeep)
   
 </p>
   
